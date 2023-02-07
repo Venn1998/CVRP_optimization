@@ -13,3 +13,6 @@ dy1 dy2 ... dyn oy       #y-coordinate of delivery points  (o is the depot)
 
 
 In the ProjectReport.pdf file we describe in more details the work done with experimental results and considerations.
+
+This project was done in collaboration with @LucaZucchini97 (https://github.com/LucaZucchini97)
+
